@@ -1,0 +1,10 @@
+# Google Camera for XiaoMI 6 #
+
+### Apply to PixelExperience Android 10 ###
+
+```bash
+
+# GoogleCamera
+$(call inherit-product-if-exists, vendor/apps/GoogleCamera/config.mk)
+
+```
